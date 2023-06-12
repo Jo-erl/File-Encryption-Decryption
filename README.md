@@ -15,7 +15,11 @@ Choice of Encryption or Decryption: This input determines whether you want to en
 
 Once you provide the necessary inputs, the program will read the content of the input file, perform the encryption or decryption based on your choice, and save the result in the output file.
 
-<i>Remember, this is a basic example, and the program assumes that the input file exists and is in a valid format. It's essential to handle error cases and incorporate additional checks for file existence, input validation, and error handling to make the program more robust.</i>
+<i>Remember, this is a basic example, and the program assumes that the input file exists and is in a valid format. It's essential to handle error cases and incorporate additional checks for file existence, input validation, and error handling to make the program more robust.</i><br><br>
 
+<h1>Contributing</h1>
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request on the GitHub repository.
 
+<h1>License</h1>
+This project is licensed under the MIT License.
 
